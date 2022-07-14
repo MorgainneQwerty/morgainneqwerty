@@ -1,7 +1,7 @@
 ### Hey! I'm Morgainne ˆˆ
 
 - 🔭 I’m currently working on (procurando emprego 🤭🙃)
-- 🌱 I’m currently learning Python, Django, Vue.js...
+- 🌱 I’m currently learning Python, Django...
 - 😄 Pronouns: Ela/Dela.
 -->
 
