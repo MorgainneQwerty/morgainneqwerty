@@ -1,8 +1,8 @@
 ### Hey! I'm Morgainne ˆˆ
 
-- 🔭 I’m currently working on (procurando emprego 🤭🙃)
+- 🔭 I’m currently working on (#openToWork 🤭🙃)
 - 🌱 I’m currently learning Python, Django...
-- 😄 Pronouns: Ela/Dela.
+- 😄 Pronouns: she/her.
 -->
 
 <div align="center">
