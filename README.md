@@ -5,28 +5,38 @@
 - 😄 Pronouns: she/her.
 -->
 
-<div align="center">
-  <a href="https://github.com/morgainneqwerty">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=morgainneqwerty&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morgainneqwerty&layout=compact&langs_count=7&theme=tokyonight"/>
-  
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![PYTHON](https://img.shields.io/badge/-PYTHON-05122A?style=flat&logo=PYTHON)&nbsp;
+![DJANGO](https://img.shields.io/badge/-DJANGO-05122A?style=flat&logo=DJANGO)&nbsp;
+![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-05122A?style=flat&logo=BOOTSTRAP)&nbsp;
+
+
+
+<br><br>
+
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://linkedin.com/in/franspereira" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-franspereira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/morgainneqwerty" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-morgainneqwerty-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+
+
+          
+          
           
   
-          
-          
-          
-  
-  
-  ![Snake animation](https://github.com/MorgainneQwerty/morgainneqwerty/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+
