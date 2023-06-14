@@ -1,9 +1,8 @@
 ### Hey! I'm Morgainne ˆˆ
 
-- 🔭 I’m currently working on (#openToWork 🤭🙃)
-- 🌱 I’m currently learning Python, Django...
-- 😄 Pronouns: she/her.
--->
+Desenvolvedora Python 
+<br>
+Estudando Python e Django... 
 
 <br><br>
 
