@@ -1,8 +1,8 @@
 ### Hey! I'm Morgainne ˆˆ
 
-<h5>Python Developer</h5>
+<h5>Automações</h5>
 <br>
-Learning Python and Django... 
+Python
 
 <br><br>
 
