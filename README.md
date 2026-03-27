@@ -28,7 +28,7 @@ Python
 <a href="https://linkedin.com/in/franspereira" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-franspereira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="[https://instagram.com/mo_qwerty](https://www.instagram.com/mo_qwerty_?igsh=MTk0bG41dGtpZ2Q2aA==)" target="_blank">
+<a href="https://www.instagram.com/mo_qwerty_?igsh=MTk0bG41dGtpZ2Q2aA==" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-mo_qwerty-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
@@ -36,5 +36,3 @@ Python
           
           
           
-  
-
