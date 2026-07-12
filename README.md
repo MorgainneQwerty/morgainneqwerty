@@ -1,6 +1,6 @@
 ### Hey! I'm Morgainne ˆˆ
 
-<h5>RPA | IPA</h5>
+<h5>RPA | Python </h5>
 <br>
 Python
 
